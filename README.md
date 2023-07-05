@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **<%=Ruby on Rails%>**
 
-- 📫 How to reach me **Jami.dev9@gmail.com**
+- 📫 How to reach me **jami.dev9@gmail.com**
 
 - ⚡ Fun fact **❤️ to travel ❤️**
 
