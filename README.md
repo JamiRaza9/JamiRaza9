@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm JamiRaza</h1>
 <h3 align="center">A passionate software engineer from </h3>
-<img align="right" alt="coding" width "400" src="![image](https://github.com/JamiRaza9/JamiRaza9/assets/138677081/0dd3691f-37ac-4863-98e4-03e1910473c8)">
+
+![image](https://github.com/JamiRaza9/JamiRaza9/assets/138677081/8dec38a3-592b-469f-bd2b-ed7552bfb084)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamiraza9&label=Profile%20views&color=0e75b6&style=flat" alt="jamiraza9" /> </p>
 
